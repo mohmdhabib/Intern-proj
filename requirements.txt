@@ -1,0 +1,11 @@
+python-dotenv
+openai
+streamlit
+PyMuPDF
+pytesseract
+pdf2image
+langchain
+langchain_nvidia_ai_endpoints
+langchain_community
+faiss-cpu
+pypdf
