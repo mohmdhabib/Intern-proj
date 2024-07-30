@@ -6,7 +6,7 @@ import re
 
 client = OpenAI(
     base_url="https://integrate.api.nvidia.com/v1",
-    api_key="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"
+    api_key="your-api-key-here"
 )
 
 def get_completion(file_text, job_description):
